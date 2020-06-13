@@ -12,6 +12,14 @@
 .staticman-comments form br {
   display: none;
 }
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
+
 .staticman-comments label, .staticman-comments input, .staticman-comments button, .staticman-comments textarea {
   vertical-align: baseline;
   vertical-align: middle;

@@ -11,8 +11,13 @@ author: Samuel Lee
 
 # --- List of links in the navigation bar --- #
 navbar-links:
+  Resume: "/resume"
   Work Experience: "/work"
   Competitive Programming: "/cp"
+
+  Education: "/education"
+  Editorials: "/editorials"
+  Youtube Channel: "/youtube"
 
 # --- Logo --- #
 

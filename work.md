@@ -18,5 +18,5 @@ Software Engineer Intern - Summer 2018
 ---
 
 
-<span style="font-size:larger;">**Cointegra**</span>  -- **Frontend**
+<span style="font-size:larger;">**Cointegra**</span>  -- **Frontend**  
 Software Engineer Intern - Summer 2018
