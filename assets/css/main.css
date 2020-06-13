@@ -320,8 +320,8 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 3.125rem;
-  margin-top: 1.75rem;
+  width: 1.125rem;
+  margin-top: 3.0rem;
   transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
@@ -359,7 +359,7 @@ img {
 
 @media (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 6.25rem;
+    width: 4.25rem;
   }
 
   .navbar-custom .avatar-container .avatar-img-border {
