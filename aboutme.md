@@ -4,5 +4,11 @@ title: About me
 subtitle:
 ---
 
+Work Experience
+--Amazon
+Software Engineer Intern at Alexa Deep Learning Platform
+Summer 2020
 
-### my history
+--Accenture Labs
+Research Intern at Systems and Platform
+Summer 2019
