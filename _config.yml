@@ -1,5 +1,5 @@
 # --- Basic options --- #
-#bundle update github-pages 
+#bundle exec jekyll serve
 # Name of website
 title: Samuel Lee
 

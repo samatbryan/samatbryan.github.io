@@ -1,0 +1,3 @@
+pip install pyfiglet==0.7
+pip install nnictl
+pip install clint
