@@ -1,5 +1,5 @@
 # --- Basic options --- #
-
+#bundle update github-pages 
 # Name of website
 title: Samuel Lee
 
