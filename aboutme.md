@@ -8,7 +8,7 @@ Software Engineer Intern - Summer 2020
 
 ---
 <span style="font-size:larger;">**Accenture Labs**</span> - **Systems and Platform**     
-Research Intern - Summer 2019
+ML Research Intern - Summer 2019
 
 ---
 
