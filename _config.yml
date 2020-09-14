@@ -15,9 +15,6 @@ navbar-links:
   Resume: "/resume"
   Work Experience: "/work"
   Competitive Programming: "/cp"
-  Editorials: "https://medium.com/@samuel_sunghun_lee"
-  Youtube Channel: "https://www.youtube.com/channel/UC6rvBaK42MXVwlyMXT3nhLQ?"
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
