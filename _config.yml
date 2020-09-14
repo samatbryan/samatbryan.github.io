@@ -11,6 +11,7 @@ author: Samuel Lee
 
 # --- List of links in the navigation bar --- #
 navbar-links:
+  Quora: "https://www.quora.com/profile/Samuel-Lee-420"
   Resume: "/resume"
   Work Experience: "/work"
   Competitive Programming: "/cp"
