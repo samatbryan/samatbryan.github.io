@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work Experience
-subtitle: Internships
+subtitle: Fulltime & Internships
 
 ---
 <span style="font-size:larger;">**Microsoft**</span> - **Azure Cloud Platform**   
