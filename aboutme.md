@@ -5,7 +5,7 @@ subtitle: Fulltime & Internships
 
 ---
 <span style="font-size:larger;">**Microsoft**</span> - **Azure Cloud Platform**   
-Software Engineer - Starting Fulltime June 2021
+Software Engineer - Fulltime
 
 ---
 <span style="font-size:larger;">**Amazon**</span> - **Alexa AI Distributed ML/Deep Learning Platform**   

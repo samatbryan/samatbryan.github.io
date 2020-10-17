@@ -4,10 +4,12 @@ title: Work Experience
 subtitle: Fulltime & Internships
 
 ---
+![](/assets/microsoft-logo.png)
 <span style="font-size:larger;">**Microsoft**</span> - **Azure Cloud Platform**   
-Software Engineer - Starting fulltime June 2021
+Software Engineer - Fulltime
 
 ---
+![](/assets/amazon-logo.png)
 <span style="font-size:larger;">**Amazon**</span> - **Alexa AI Distributed ML/Deep Learning Platform**   
 Software Engineer Intern - Summer 2020
 
