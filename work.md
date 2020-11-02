@@ -6,7 +6,7 @@ subtitle: Fulltime & Internships
 
 <span>
     <img src="/assets/microsoft-logo.png" alt="drawing" style="width:100px;height:100px;"/>
-    <small>Azure Cloud Platform , Edge<small>
+    <small>Azure Cloud Platform, Edge</small>
     <small>Software Engineer - Fulltime starting July 2021</small>
 </span>
 
