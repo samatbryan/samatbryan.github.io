@@ -4,6 +4,12 @@ title: Work Experience
 subtitle: Fulltime & Internships
 ---
 
+<span>
+    <img src="/assets/microsoft-logo.png" alt="drawing" style="width:100px;height:100px;"/>
+    <small>Azure Cloud Platform , Edge<small>
+    <small>Software Engineer - Fulltime starting July 2021</small>
+</span>
+
 <img src="/assets/microsoft-logo.png" alt="drawing" style="width:100px;height:100px;"/>
 <br />
 <span style="font-size:larger;">**Azure Cloud Platform Edge**  </span> 
