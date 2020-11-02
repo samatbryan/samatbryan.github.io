@@ -6,8 +6,27 @@ subtitle: Fulltime & Internships
 
 <span>
     <img src="/assets/microsoft-logo.png" alt="drawing" style="width:100px;height:100px;"/>
-    <small>Azure Cloud Platform, Edge</small>
-    <small>Software Engineer - Fulltime starting July 2021</small>
+    Software Engineer @ Azure Cloud Platform, Edge
+</span>
+
+<span>
+    <img src="/assets/amazon-logo.png" alt="drawing" style="width:100px;height:100px;"/>
+    Software Engineer Intern @ Alexa AI Distributed ML/Deep Learning Platform
+</span>
+
+<span>
+    <img src="/assets/accenture-logo.png" alt="drawing" style="width:100px;height:100px;"/>
+    Research Intern @ Systems and Platforms 
+</span>
+
+<span>
+    <img src="/assets/cointegra-logo.png" alt="drawing" style="width:100px;height:100px;"/>
+    Software Engineer Intern @ Frontend
+</span>
+
+<span>
+    <img src="/assets/millennium-logo.png" alt="drawing" style="width:100px;height:100px;"/>
+    Software Engineer Intern @ Insurance
 </span>
 
 <img src="/assets/microsoft-logo.png" alt="drawing" style="width:100px;height:100px;"/>
