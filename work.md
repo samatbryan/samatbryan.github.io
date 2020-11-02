@@ -6,33 +6,33 @@ subtitle: Fulltime & Internships
 
 <img src="/assets/microsoft-logo.png" alt="drawing" style="width:100px;height:100px;"/>
 <br />
-<span style="font-size:larger;">**Microsoft**</span> - **Azure Cloud Platform Edge**  
-Software Engineer - Fulltime
+<span style="font-size:larger;">**Azure Cloud Platform Edge**  </span> 
+Software Engineer - Fulltime starting July 2021
 
 ---
 
 <img src="/assets/amazon-logo.png" alt="drawing" style="width:100px;height:100px;"/>
 <br />
-<span style="font-size:larger;">**Amazon**</span> - **Alexa AI Distributed ML/Deep Learning Platform**  
+<span style="font-size:larger;">**Alexa AI Distributed ML/Deep Learning Platform**  </span> 
 Software Engineer Intern - Summer 2020
 
 ---
 
 <img src="/assets/accenture-logo.png" alt="drawing" style="width:100px;height:100px;"/>
 <br />
-<span style="font-size:larger;">**Accenture Labs**</span> - **Systems and Platform**  
+<span style="font-size:larger;"> **Systems and Platform**  </span> 
 Research Intern - Summer 2019
 
 ---
 
 <img src="/assets/millennium-logo.png" alt="drawing" style="width:100px;height:100px;"/>
 <br />
-<span style="font-size:larger;">**New Millennium Bank**</span> - **Insurance**  
+<span style="font-size:larger;">**Insurance**  </span> 
 Software Engineer Intern - Summer 2018
 
 ---
 
 <img src="/assets/cointegra-logo.png" alt="drawing" style="width:100px;height:100px;"/>
 <br />
-<span style="font-size:larger;">**Cointegra**</span> -- **Frontend**  
+<span style="font-size:larger;">**Frontend**  </span> 
 Software Engineer Intern - Summer 2018
