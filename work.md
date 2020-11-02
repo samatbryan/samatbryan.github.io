@@ -5,7 +5,7 @@ subtitle: Fulltime & Internships
 ---
 
 <span>
-    <img src="/assets/microsoft-logo.png" alt="drawing" style="width:75px;height:75px;"/>
+    <img src="/assets/microsoft-logo.png" alt="drawing" style="width:90px;height:90px;"/>
     <b> Software Engineer @ Azure Cloud Platform, Edge </b>
 </span>
 
