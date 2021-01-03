@@ -2,13 +2,19 @@
 layout: page
 title: Competitive Programming
 ---
-### Editorials
-Editorials: "https://medium.com/@samuel_sunghun_lee"
+
 ### Youtube
-Youtube Channel: "https://www.youtube.com/channel/UC6rvBaK42MXVwlyMXT3nhLQ?"
+
+[My Channel](http://youtube.com/user/samatbryan)
+
 ### Leetcode
-samatbryan - Top 2% (1900+ in 15 contests)
+
+#8 in South Korea (2200+ rating) [Me](http://leetcode.com/BlackpinkLisa)
+
+### Binarysearch.com
+
+#24 in World (1900+ rating) [Me](http://binarysearch.com/@/Lee)
+
 ### Kattis
+
 samatbryan - Top 10 (UC Berkeley)
-### Binarysearch.io
-samatbryan - Top 10
