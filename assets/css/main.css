@@ -7,13 +7,14 @@ layout: null
 /* --- General --- */
 
 html {
-  font-size: 100%
+  font-size: 100%;
+  background-color: #1e2021;
 }
 code {
     padding: 2px 4px;
     font-size: 90%;
     color: #c7254e;
-    background-color: #f9f2f4;
+    background-color: #1e2021;
     border-radius: 4px;
 }
 body {
@@ -21,8 +22,7 @@ body {
   font-size: 1.125rem;
   color: #404040;
   position: relative;
-  background-color: {{ site.page-col | default: "#FFFFFF" }};
-  {% if site.page-img %}
+  background-color: #1e2021;
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
@@ -756,7 +756,7 @@ footer .footer-custom-content {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: #1e2021;
   border-radius: 0;
   color: #404040;
 }
@@ -767,7 +767,7 @@ footer .footer-custom-content {
 }
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
-  color: #FFF;
+  color: #1e2021;
   border: 1px solid {{ site.hover-col | default: "#0085A1" }};
   background-color: {{ site.hover-col | default: "#0085A1" }};
 }
@@ -778,23 +778,23 @@ table {
   padding: 0;
 }
 table tr {
-  border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  border-top: 1px solid #353a3d;
+  background-color: #1e2021;
   margin: 0;
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #1e2021;
 }
 table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
+  border: 1px solid #1e2021;
   text-align: left;
   margin: 0;
   padding: 0.375rem 0.8125rem;
 }
 table tr td {
-  border: 1px solid #cccccc;
+  border: 1px solid #1e2021;
   text-align: left;
   margin: 0;
   padding: 0.375rem 0.8125rem;
