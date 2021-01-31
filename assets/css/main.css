@@ -20,7 +20,7 @@ code {
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
-  color: #404040;
+  color: #c1ba93;
   position: relative;
   background-color: #1e2021;
   {% if site.page-img %}
@@ -134,8 +134,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#F5F5F5" }};
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#EAEAEA" }};
+  background-color: #1e2021;
+  border-bottom: 1px solid {{ site.navbar-border-col | default: "#353a3d" }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
