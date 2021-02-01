@@ -16,7 +16,7 @@ subtitle: Fulltime & Internships
 
 <span>
     <img src="/assets/accenturelogo.png" alt="drawing" style="width:100px;height:100px;"/>
-    <b> Research Intern @ Systems and Platforms </b>
+    <b> AI Research Intern @ Systems and Platforms </b>
 </span>
 
 <span>
