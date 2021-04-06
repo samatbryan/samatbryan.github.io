@@ -13,7 +13,7 @@ title: Competitive Programming
 
 ### Leetcode
 
-#5 in South Korea (2300+ rating) [Me](http://leetcode.com/BlackpinkLisa)
+#8 in South Korea (2200+ rating) [Me](http://leetcode.com/BlackpinkLisa)
 
 ### Binarysearch.com
 
