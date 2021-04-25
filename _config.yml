@@ -12,7 +12,7 @@ author: Samuel Lee
 # --- List of links in the navigation bar --- #
 navbar-links:
   Quora: "https://www.quora.com/profile/Samuel-Lee-420"
-  Resume: "/resume"
+  Tutoring: "/resume"
   Work Experience: "/work"
   Competitive Programming: "/cp"
 # --- Logo --- #
@@ -27,7 +27,6 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 #title-img: /path/to/image
-
 
 # --- Footer options --- #
 
@@ -157,7 +156,6 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
-
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
@@ -172,17 +170,15 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       readtime: false # add estimated reading time on all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -202,6 +198,5 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
