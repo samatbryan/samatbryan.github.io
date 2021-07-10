@@ -15,7 +15,7 @@ subtitle: Fulltime & Internships
 </span>
 <br />
 <span>
-    <img src="/assets/amazonlogo.png" alt="drawing" style="width:100px;height:100px;"/>
+    <img src="/assets/amazon-logo.png" alt="drawing" style="width:100px;height:100px;"/>
     <b> Software Engineer Intern @ Amazon - Alexa AI Distributed ML/DL Platform </b>
 </span>
 
