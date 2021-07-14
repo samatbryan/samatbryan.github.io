@@ -6,7 +6,7 @@ subtitle: Fulltime & Internships
 
 <span>
     <img src="/assets/googlelogo.png" alt="drawing" style="width:100px;height:100px;"/>
-    <b> Software Engineer @ Google - Tensorflow TPU </b>
+    <b> Software Engineer @ Google - Tensorflow Core ML, TPU </b>
 </span>
 <br />
 <span>
